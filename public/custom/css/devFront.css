@@ -1,0 +1,19 @@
+.mustAddInvalid{
+    background: #FA7751;
+    color: #fff !important;
+    opacity: 1;
+}
+.custom-radio .custom-control-input~.custom-control-label {
+    width: 100%;
+}
+.custom-checkbox .custom-control-input~.custom-control-label {
+    width: 100%;
+}
+.item-spec  {
+    float: left;
+    width: auto;
+}
+.item-price  {
+    float: right;
+    width: auto;
+}
